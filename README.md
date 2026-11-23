@@ -6,7 +6,7 @@
 | **Grupo** | ING10-1 |
 | **Negocio · giro** | Wilbert's Smokehouse · Ahumadero BBQ estilo Texas: carnes cocinadas 'low & slow' |
 | **URL del repositorio** | https://github.com/RubiGarciaWilbertJesus/Wilbert-s-Smokehouse-pwa_RUBI-GACIAR-WILBERT-JESUS |
-| **URL de GitHub Pages** |  |
+| **URL de GitHub Pages** | https://rubigarciawilbertjesus.github.io/Wilbert-s-Smokehouse-pwa_RUBI-GACIAR-WILBERT-JESUS/ |
 
 ## Historial de avances
 | Avance | Hash del commit entregado | Fecha |
